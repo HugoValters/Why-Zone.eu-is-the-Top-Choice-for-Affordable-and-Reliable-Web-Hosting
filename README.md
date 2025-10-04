@@ -38,4 +38,5 @@ Homepage: https://www.valters.eu<br>
 GitHub: https://github.com/hugovalters<br>
 Medium: https://blog.valters.eu
 
+By Hugo Valters
 Thanks
