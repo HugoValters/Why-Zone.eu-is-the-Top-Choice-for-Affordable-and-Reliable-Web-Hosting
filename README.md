@@ -39,5 +39,5 @@ GitHub: https://github.com/hugovalters<br>
 GitLab: [https://gitlab.com/hugovalters](https://gitlab.com/hugovalters)<br>
 Medium: https://blog.valters.eu
 
-By Hugo Valters
-Thanks
+By Hugo Valters <br>
+Thanks @2025
